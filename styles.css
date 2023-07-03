@@ -1,0 +1,13 @@
+h1{
+    background-color: red;
+    color: green;
+    display: inline;
+
+}
+.fun {
+    position: sticky;
+    top: 120px;
+    left: 1020px;
+    width: 100%;
+}
+
