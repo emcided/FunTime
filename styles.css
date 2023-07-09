@@ -1,12 +1,72 @@
-td {
-    color: red;
-}
-td {
+img {
     position: relative;
-    border: 1px solid black;
-    width: 10px;
-    right: 10px;
-} 
-.class2 {
-    border-radius: 20px;
 }
+
+.content-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.center-content {
+    width: 500px;
+}
+
+
+
+h1 {
+    
+    display: flex;
+    justify-content: center;
+}
+
+.inag {
+    display: flex;
+    justify-content: center;
+
+    width: 100%;
+
+}
+
+.man {
+    width: 50%;
+}
+
+.pod {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+h2 {
+    display: flex;
+    justify-content: center;
+}
+.classes {
+    display: flex;
+    justify-content: space-around;
+}
+p {
+    font-size: 20px;
+}
+.emci {
+    display: flex;
+    justify-content: center;
+}
+.star1 {
+    position: absolute;
+    z-index: -1;
+    top: 930px;
+
+}
+.star2 {
+    position: absolute;
+    z-index: -1;
+    top: 900px;
+    left: 1050px;
+}
+.coins {
+    position: absolute;
+    z-index: -1;
+    top: 1610px;
+    left: 1050px;
+}
+
